@@ -22,7 +22,7 @@ int power(int x, int y) {
 }
 
 int main() {
-    int ret = power(2, 10);
+    int ret = power(2, 20);
     printf("%d", ret);
     return 0;
 }
